@@ -33,7 +33,6 @@ I have worked on several projects, including:
 
 - Project 1: [Canary](link-to-project-1) - Description of the project.
 - Project 2: [Instagram Clone](https://github.com/hungpk2191/Instagram_Clone) - Description of the project.
-- ...
 
 ## Contact Me
 
