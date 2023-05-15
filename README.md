@@ -40,7 +40,7 @@ I have worked on several projects, including:
 Feel free to reach out to me through the following channels:
 
 - Email: hungtr1905@gmail.com
-- LinkedIn: [Your LinkedIn Profile](link-to-your-linkedin-profile)
+- LinkedIn: [Hung Tran](https://www.linkedin.com/in/h%C6%B0ng-tr%E1%BA%A7n-476a65260/)
 
 Let's connect and collaborate on exciting projects!
 
