@@ -22,15 +22,17 @@ Here are some of the skills and technologies I work with:
 
 - React Native
 - JavaScript
+- React JS
 - HTML/CSS
 - Git
+- Figma
 
 ## Projects
 
 I have worked on several projects, including:
 
-- Project 1: [Name of Project 1](link-to-project-1) - Description of the project.
-- Project 2: [Name of Project 2](link-to-project-2) - Description of the project.
+- Project 1: [Canary](link-to-project-1) - Description of the project.
+- Project 2: [Instagram Clone](https://github.com/hungpk2191/Instagram_Clone) - Description of the project.
 - ...
 
 ## Contact Me
